@@ -10,6 +10,9 @@
 # question! You certainly shouldn't spend more than a few minutes
 # on any of these sub-tasks.
 
+#Michael Small
+#September 2019
+
 # This checks that there is a file called "count_successes.sh"
 # in this directory. If this fails, it's because you haven't
 # created the file, or you created it in the wrong place.
