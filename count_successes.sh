@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "There were 347 successes and 892 failures."
+echo "There were 78 successes and 22 failures."
